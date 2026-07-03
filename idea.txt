@@ -1,0 +1,15 @@
+navbar
+  -home
+  -contact
+  -resume
+
+introduction
+-heading
+-Image
+-about me
+
+Experience
+ - list all my Experience
+
+Skills 
+ - list all my skills
